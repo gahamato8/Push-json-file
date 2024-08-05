@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{B26627A9-AB08-42B0-89A2-6492A56FFBC6}|ToolDanhMuc\\ToolDanhMuc.csproj|solutionrelative:tooldanhmuc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B26627A9-AB08-42B0-89A2-6492A56FFBC6}|ToolDanhMuc\\ToolDanhMuc.csproj|d:\\cty_funa_titkul\\tooldanhmuc\\tooldanhmuc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B26627A9-AB08-42B0-89A2-6492A56FFBC6}|ToolDanhMuc\\ToolDanhMuc.csproj|D:\\Cty_Funa_Titkul\\ToolDanhMuc\\tooldanhmuc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B26627A9-AB08-42B0-89A2-6492A56FFBC6}|ToolDanhMuc\\ToolDanhMuc.csproj|solutionrelative:tooldanhmuc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -84,7 +84,7 @@
               "RelativeDocumentMoniker": "ToolDanhMuc\\Form1.cs",
               "ToolTip": "D:\\Cty_Funa_Titkul\\ToolDanhMuc\\ToolDanhMuc\\Form1.cs",
               "RelativeToolTip": "ToolDanhMuc\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-05T03:23:59.242Z",
               "EditorCaption": ""
@@ -98,8 +98,7 @@
               "ToolTip": "D:\\Cty_Funa_Titkul\\ToolDanhMuc\\ToolDanhMuc\\Form1.cs [Design]",
               "RelativeToolTip": "ToolDanhMuc\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T03:23:52.882Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-08-05T03:23:52.882Z"
             }
           ]
         },
